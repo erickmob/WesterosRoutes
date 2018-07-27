@@ -2,16 +2,6 @@
 
 
 ## Please read first 
-
-
-We usually ask candidates to deliver this assessment within 3 days.
-
-If you are unable to take 3 days to work on this assessment, please let your recruiter know
-beforehand. If you are busy at work, our recommendation is that you ask to do this test on a
-weekend. We are very flexible as long as you provide a reasonable explanation.
-  
-  Not having enough time will not be accepted as an excuse to deliver an unsatisfactory solution.
-  
   
 ## Background
   
@@ -303,8 +293,6 @@ Test cases:
 
 *Please pay attention on the the advices listed below.*
 
-To start the development, please create a fork of this repository to your user account. That version will be used during the evaluation.
-
 You should implement more than a barebone algorithm. We are expecting a runnable application with a minimal structure. You should create an object model and use design patterns wherever they are appropriate, but try to keep things simple.
 
 1. The application already have a Maven build set up.
@@ -318,22 +306,6 @@ You should implement more than a barebone algorithm. We are expecting a runnable
 9. The database and tables creation should be done by Maven (extending the build process) or by the application. 
 10. Please document any additional information you think it's required to evaluate properly your test.
 
-## Evaluation
 
-Once you finish your assessment please create a merge request to push your changes to Avenue Code's repository. The evaluation will take the version you had at that moment and no future changes will be accepted.
 
-We recommend that you use your forked version of this repository to organize your development process. Push small changes to the repository and implement the features using baby steps may be a good tip to avoid spending too much time on debugging errors. You can use many commits and branches you like but make sure you have the merge request created **ONLY AT THE END OF YOUR DEVELOPMENT**.
-
-## Assessment Guidelines
-
-You will be assessed on the following aspects, sorted by priority:
-1. Code cleanness and naming consistency
-2. Object orientation design
-3. Automated tests (unit and/or integration tests)
-4. Appropriate use of the language, framework features and best practices
-5. Correct execution
-6. Feature completeness
-
-Please keep in mind that, for this assessment, it is more important that you deliver quality code than a feature complete implementation. Your code will still be evaluated even if you couldn't implement all the acceptance criteria.
-You're expected to complete this assessment without anyone's help. We will ask questions about your code in an interview. **Play fairly!**
 
